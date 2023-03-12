@@ -13,9 +13,30 @@ Here are some ideas to get you started:-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EKANATHAN-1001)](https://git.io/streak-stats)
 
-<div align="left" width="100" height="100">
 ![image](https://user-images.githubusercontent.com/116795679/210530281-f6e08f0c-5faa-4bca-84aa-6a1fb0d30280.png)
-</div>
+
+
+## GitHub Stats 📈 :
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+
+<br>
+
+## GitHub Thropies 🏆 :
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+
+<br>
+
+## Activity Graph 📊 :
+
+<br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -23,6 +44,10 @@ Here are some ideas to get you started:-->
 
 
 
+
+
+
+# Not me
 <div align="center" width="50">
     <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
 </div>
