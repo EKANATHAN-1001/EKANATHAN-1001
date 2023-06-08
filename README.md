@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **ekanathanragu6245@gmail.com**
 
+- 🧑‍💻 Certificate https://coursera.org/share/19394d13d701fd81242f526a174833ef
+
 - ⚡ Fun fact **sky watcher, astronomy, stargazer**
 
 <h3 align="left">Connect with me:</h3>
