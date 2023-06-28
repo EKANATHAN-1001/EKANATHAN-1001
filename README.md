@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently **doing my UG course**
 
-- 🌱 I’m currently learning **.net, c#, Nodejs, Typescript, Angular**
+- 🌱 I’m currently learning **Embedded programming, Android Studio(Java), Visualization(Python)**
 
 - 🤝 I’m looking **to work on cloud computing..**
 
