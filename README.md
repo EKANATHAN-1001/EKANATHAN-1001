@@ -17,7 +17,7 @@
 
 - 🧑‍💻 Certificate https://coursera.org/share/19394d13d701fd81242f526a174833ef
 
-- 👨‍🎓 Certified AWS cloud practitioner ![aws-certified-cloud-practitioner(1)](https://github.com/EKANATHAN-1001/EKANATHAN-1001/assets/116795679/0500bf08-7df5-4dc5-b8d3-5dc2fb4133b2)
+- 👨‍🎓 AWS Certified Cloud Practitioner https://www.credly.com/badges/133c68bf-31ac-46df-a60a-12821a6e0da9/public_url
 
 - ⚡ I am also **sky watcher, astronomy, stargazer**
 
