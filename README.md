@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently **doing my UG course**
 
-- 🌱 I’m currently learning **Embedded programming, Android Studio(Java), Visualization(Python)**
+- 🌱 I’m currently learning **C# Based Desktop Applicaiton**
 
-- 🤝 I’m looking **to work on cloud computing..**
+- 🤝 I’m looking **to work on cloud computing/ machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EKANATHAN-1001](https://github.com/EKANATHAN-1001)
 
