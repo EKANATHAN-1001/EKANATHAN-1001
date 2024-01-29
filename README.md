@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ekanathanragu6245@gmail.com**
 
-- 🧑‍💻 Certificate https://coursera.org/share/19394d13d701fd81242f526a174833ef
+- 🧑‍💻 Google IT Automation with Python Certificate https://coursera.org/share/19394d13d701fd81242f526a174833ef
 
 - 👨‍🎓 AWS Certified Cloud Practitioner https://www.credly.com/badges/133c68bf-31ac-46df-a60a-12821a6e0da9/public_url
 
