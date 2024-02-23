@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking **to work on cloud computing/ machine learning**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/EKANATHAN-1001](https://github.com/EKANATHAN-1001)**
+- 👨‍💻 All of my projects are available at **https://github.com/EKANATHAN-1001?tab=repositories**
 
 - 📫 How to reach me **ekanathanragu6245@gmail.com**
 
