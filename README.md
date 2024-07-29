@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekanathan-1001" alt="ekanathan-1001" /></a> </p>
 
-- 🔭 I’m currently **doing my UG course**
+- 🔭 I’m completed **my UG course**
 
-- 🌱 I’m currently learning **C# Based Desktop Applicaiton**
+- 🌱 I’m currently learning **React JS**
 
 - 🤝 I’m looking **to work on cloud computing/ machine learning**
 
