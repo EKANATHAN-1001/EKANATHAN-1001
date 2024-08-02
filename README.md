@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekanathan-1001" alt="ekanathan-1001" /></a> </p>
 
-- 🔭 I’m completed **my UG in B.Tech IT**
+- 🔭 I’m completed **my B.Tech IT in Mepco Schlenk Engineering College (2020 - 2024)**
 
 - 🌱 I’m currently learning **React JS**
 
